@@ -11,7 +11,7 @@ This screenshot shows the end-product we design. It aims to help identify quick 
 
 We believe that it serves a different audience than social media groups that tend to last longer.
 
-[Pitching Slide](https://github.com/a2975667/cuteAnna/blob/master/document/Anna.pdf) can be found here.
+[Pitching Slide](https://github.com/a2975667/Anna/blob/master/document/Anna.pdf) can be found here.
 
 ## Technologies
 Rachel is built running two servers: Back-end and Front-end. 
