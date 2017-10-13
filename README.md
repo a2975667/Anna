@@ -1,4 +1,4 @@
-# Rachel
+# Anna
 This is a Hackathon project for E.C. Jamming 2017 (http://ecjamming.tech/) with the theme: campus life. Anna is an intelligent Chatbot that brings students with similar intrests and needs together as intrest groups and short-term gatherings.
 
 ## Actual product and desgin explaination
