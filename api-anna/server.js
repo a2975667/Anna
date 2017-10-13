@@ -9,8 +9,7 @@ var app = express();
 var port = process.env.PORT || 9999;
 var router = express.Router();
 
-mongoose.connect('mongodb://ken:123123@ds119020.mlab.com:19020/anna');
-//mongoose.connect('mongodb://localhost:27017/rachel');
+mongoose.connect('DATABASE');
 
 app.use(bodyParser.urlencoded({
   extended: true

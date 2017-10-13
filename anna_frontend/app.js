@@ -15,8 +15,8 @@ server.listen(process.env.port || process.env.PORT || 3978, function() {
 var mongodburl = 'http://api-anna.azurewebsites.net/api'
     // Create chat bot
 var connector = new builder.ChatConnector({
-    appId: 'c1c99743-7b9a-4f4a-b8c3-8afdde6e531b',
-    appPassword: 'sEuiO7RoOkiU3NmD976yjdb'
+    appId: 'KEY',
+    appPassword: 'KEY'
 });
 var bot = new builder.UniversalBot(connector);
 server.post('/api/messages', connector.listen());
