@@ -1,5 +1,5 @@
 # Anna
-This is a Hackathon project for E.C. Jamming 2017 (http://ecjamming.tech/) with the theme: campus life. Anna is an intelligent Chatbot that brings students with similar intrests and needs together as intrest groups and short-term gatherings.
+This is a Hackathon project for E.C. Jamming 2017 (http://ecjamming.tech/) with the theme: campus life. Anna is an intelligent Chatbot that brings students with similar interests and needs together as interest groups and short-term gatherings.
 
 ## Actual product and desgin explaination
 ![Actual Facebook Messenger](https://github.com/a2975667/Anna/blob/master/document/1.jpg)
